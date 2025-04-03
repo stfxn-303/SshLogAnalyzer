@@ -14,7 +14,7 @@ It helps system administrators prevent brute-force attacks by blocking malicious
 ## 🛠 Installation  
 1. **Clone the repository** to your local machine:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/ssh-log-analyzer.git
+    git clone https://github.com/stfxn-303/ssh-log-analyzer.git
     cd ssh-log-analyzer
     ```
 
